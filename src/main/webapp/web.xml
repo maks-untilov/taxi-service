@@ -132,7 +132,6 @@
         <servlet-name>getCurrentCars</servlet-name>
         <url-pattern>/drivers/cars</url-pattern>
     </servlet-mapping>
-
     <filter>
         <filter-name>authFilter</filter-name>
         <filter-class>taxi.controller.filter.AuthenticationFilter</filter-class>
