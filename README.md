@@ -23,9 +23,15 @@ This is simple simulation of taxi sevice to control drivers and machines. With a
 - CRUD for Manufacturer
 - Filter
 - Main page where you can manage everything
-## 🛠 Tools
+## 🛠 Technologies
+- Java11
+- Servlet API
+- MySQL
 - JDBC
+- Java EE | JSTL
+- WEB Filter
 - Dependency Injection
+- HTML | CSS
 ## ⚡️ Quickstart
 Change to your db parametrs (In init_db.sql)
 ```
