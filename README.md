@@ -1,5 +1,5 @@
 ﻿# 🚕taxi-service🚕
-This is simple simulation of taxi sevice to control drivers and machines. With ability to add manufacturers. Implemented all CRUD operations
+This is simple simulation of taxi service to control drivers and machines. With ability to add manufacturers. Implemented all CRUD operations
 ## ✍️ Detailed description of the project
 - CRUD operations for Car, Driver, Manufacturer
 - Control classes distributed by package (Dao, Service, Model etc.)
